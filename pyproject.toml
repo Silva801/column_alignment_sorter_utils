@@ -1,6 +1,6 @@
 [project]
 name = "column-alignment-sorter-utils"
-version = "0.1.1"
+version = "0.1.2"
 description = "Reorders whitespace-aligned text lines by a given column index, placing rows missing that column at the start or end depending on sort direction."
 requires-python = ">=3.10"
 dependencies = []
